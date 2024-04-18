@@ -1,4 +1,4 @@
-# GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos
+# GenHowTo Ali Zare Copy: Learning to Generate Actions and State Transformations from Instructional Videos
 
 ### [[Project Website :dart:]](https://soczech.github.io/genhowto/)&nbsp;&nbsp;&nbsp;[[Paper :page_with_curl:]](https://arxiv.org/abs/2312.07322)&nbsp;&nbsp;&nbsp;[Code :octocat:]
 
